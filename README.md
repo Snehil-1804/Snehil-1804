@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehil-1804&label=Profile%20views&color=0e75b6&style=flat" alt="snehil-1804" /> </p>
 
-- 🌱 I’m currently learning **Java, React, Docker, JavaScript**
+- 🌱 I’m currently learning **Python,AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Snehil-1804](https://github.com/Snehil-1804)
 
